@@ -1,0 +1,9 @@
+{
+"barbers": {
+    "id": "1",
+    "name": "Barber1",
+    "description": "Description1",
+    "city": "Lleida",
+    "address": "Carrer1"
+    }
+}
