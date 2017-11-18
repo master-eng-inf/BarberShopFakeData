@@ -314,21 +314,21 @@
             ],
             "appointments": [
                 {
-                    "id": 0,
+                    "id": 3,
                     "client_id": 0,
                     "service_id": 3,
                     "promotion_id": "",
                     "date": "2018-01-20"
                 },
                 {
-                    "id": 1,
+                    "id": 4,
                     "client_id": 1,
                     "service_id": 2,
                     "promotion_id": 0,
                     "date": "2017-12-04"
                 },
                 {
-                    "id": 2,
+                    "id": 5,
                     "client_id": 2,
                     "service_id": 1,
                     "promotion_id": 1,
@@ -499,21 +499,21 @@
             ],
             "appointments": [
                 {
-                    "id": 0,
+                    "id": 6,
                     "client_id": 0,
                     "service_id": 3,
                     "promotion_id": "",
                     "date": "2017-12-26"
                 },
                 {
-                    "id": 1,
+                    "id": 7,
                     "client_id": 1,
                     "service_id": 2,
                     "promotion_id": 0,
                     "date": "2017-12-06"
                 },
                 {
-                    "id": 2,
+                    "id": 8,
                     "client_id": 2,
                     "service_id": 1,
                     "promotion_id": 1,

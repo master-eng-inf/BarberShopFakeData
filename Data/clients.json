@@ -3,92 +3,158 @@
     {
       "id": 0,
       "password": "c",
-      "email": "gretahorton@joviold.com",
-      "phone": "+1 (904) 408-3320",
-      "name": "Agnes York",
-      "gender": "female",
-      "age": 55
+      "email": "amberwallace@bezal.com",
+      "phone": "+1 (821) 497-3200",
+      "name": "Oneil Miles",
+      "gender": "male",
+      "age": 13,
+      "appointments": [
+        {
+          "id": 0,
+          "barber_shop_id": 0,
+          "service_id": 3,
+          "promotion_id": "",
+          "date": "2017-12-20"
+        },
+        {
+          "id": 3,
+          "barber_shop_id": 1,
+          "service_id": 3,
+          "promotion_id": "",
+          "date": "2018-01-20"
+        },
+        {
+          "id": 6,
+          "barber_shop_id": 2,
+          "service_id": 3,
+          "promotion_id": "",
+          "date": "2017-12-26"
+        }
+      ],
+      "reviews": [
+        {
+          "barber_shop_id": 0,
+          "review_description": "Fugiat do do ad velit eiusmod. Enim deserunt aute consequat et et excepteur enim. Est id et ut anim deserunt anim ea laboris tempor consectetur. Duis eu cillum est eu do duis excepteur ad. Eiusmod ea ea esse tempor cillum occaecat consequat pariatur velit ut tempor. Officia ipsum ipsum esse officia mollit ex id ipsum eu elit culpa est elit.\r\n",
+          "review_mark": 1,
+          "review_date": "2018-01-14"
+        },
+        {
+          "barber_shop_id": 1,
+          "review_description": "Non duis sint cillum quis dolor eiusmod exercitation sit. Nulla ut ea dolore laborum mollit esse occaecat deserunt laborum ipsum cupidatat ullamco mollit. Amet sunt elit ut Lorem ea enim et nostrud sint. Ex consequat minim duis eiusmod pariatur ut. Non minim Lorem proident irure cillum.\r\n",
+          "review_mark": 3,
+          "review_date": "2017-11-18"
+        },
+        {
+          "barber_shop_id": 2,
+          "review_description": "Ut occaecat in ipsum amet ea ut ex deserunt. Laboris non duis duis labore ad velit ipsum consectetur mollit esse. Do qui laboris ipsum reprehenderit officia do nisi.\r\n",
+          "review_mark": 3,
+          "review_date": "2018-01-17"
+        }
+      ]
     },
     {
       "id": 1,
       "password": "c",
-      "email": "agnesyork@joviold.com",
-      "phone": "+1 (868) 480-3201",
-      "name": "Janis Jensen",
-      "gender": "female",
-      "age": 58
+      "email": "oneilmiles@bezal.com",
+      "phone": "+1 (912) 411-3564",
+      "name": "Hart Cameron",
+      "gender": "male",
+      "age": 46,
+      "appointments": [
+        {
+          "id": 1,
+          "barber_shop_id": 0,
+          "service_id": 2,
+          "promotion_id": 0,
+          "date": "2017-12-20"
+        },
+        {
+          "id": 4,
+          "barber_shop_id": 1,
+          "service_id": 2,
+          "promotion_id": 0,
+          "date": "2017-12-04"
+        },
+        {
+          "id": 7,
+          "barber_shop_id": 2,
+          "service_id": 2,
+          "promotion_id": 0,
+          "date": "2017-12-06"
+        }
+      ],
+      "reviews": [
+        {
+          "barber_shop_id": 0,
+          "review_description": "Amet dolore enim officia nostrud fugiat. Esse laboris officia duis ex in cupidatat officia aliquip exercitation consectetur culpa sunt. Sunt sit elit cillum occaecat irure aliquip voluptate deserunt. Incididunt eu voluptate esse eu ipsum occaecat laboris est eu. Deserunt labore in ut ex magna enim quis exercitation laboris magna nisi. Eiusmod elit consectetur consectetur laboris id. Elit do tempor ut ipsum ut esse reprehenderit amet.\r\n",
+          "review_mark": 5,
+          "review_date": "2018-02-07"
+        },
+        {
+          "barber_shop_id": 1,
+          "review_description": "Consectetur aute laborum aliqua commodo officia occaecat est sunt cillum quis est reprehenderit consectetur. Ex veniam dolore ex labore irure et esse ipsum adipisicing ipsum fugiat cupidatat. Tempor enim aliquip magna voluptate exercitation do non amet labore ad nulla. Ad ut culpa amet nulla nostrud laborum.\r\n",
+          "review_mark": 0,
+          "review_date": "2017-12-22"
+        },
+        {
+          "barber_shop_id": 2,
+          "review_description": "Velit reprehenderit aliqua adipisicing consectetur id incididunt tempor culpa pariatur consequat fugiat. Eu commodo cillum amet ullamco. Lorem quis aliqua deserunt nisi excepteur.\r\n",
+          "review_mark": 5,
+          "review_date": "2017-11-23"
+        }
+      ]
     },
     {
       "id": 2,
       "password": "c",
-      "email": "janisjensen@joviold.com",
-      "phone": "+1 (865) 599-3099",
-      "name": "Kirk Shepherd",
+      "email": "hartcameron@bezal.com",
+      "phone": "+1 (847) 416-2462",
+      "name": "Nieves Horton",
       "gender": "male",
-      "age": 29
-    },
-    {
-      "id": 3,
-      "password": "c",
-      "email": "kirkshepherd@joviold.com",
-      "phone": "+1 (956) 436-2624",
-      "name": "Zelma Walker",
-      "gender": "female",
-      "age": 24
-    },
-    {
-      "id": 4,
-      "password": "c",
-      "email": "zelmawalker@joviold.com",
-      "phone": "+1 (854) 447-3515",
-      "name": "Alba Tillman",
-      "gender": "female",
-      "age": 14
-    },
-    {
-      "id": 5,
-      "password": "c",
-      "email": "albatillman@joviold.com",
-      "phone": "+1 (939) 469-2649",
-      "name": "Becky French",
-      "gender": "female",
-      "age": 40
-    },
-    {
-      "id": 6,
-      "password": "c",
-      "email": "beckyfrench@joviold.com",
-      "phone": "+1 (938) 592-3048",
-      "name": "Pitts Gillespie",
-      "gender": "male",
-      "age": 55
-    },
-    {
-      "id": 7,
-      "password": "c",
-      "email": "pittsgillespie@joviold.com",
-      "phone": "+1 (848) 517-3050",
-      "name": "Betsy Young",
-      "gender": "female",
-      "age": 42
-    },
-    {
-      "id": 8,
-      "password": "c",
-      "email": "betsyyoung@joviold.com",
-      "phone": "+1 (905) 484-2147",
-      "name": "Duran Taylor",
-      "gender": "male",
-      "age": 50
-    },
-    {
-      "id": 9,
-      "password": "c",
-      "email": "durantaylor@joviold.com",
-      "phone": "+1 (904) 488-2271",
-      "name": "Kayla Flores",
-      "gender": "female",
-      "age": 44
+      "age": 21,
+      "appointments": [
+        {
+          "id": 2,
+          "barber_shop_id": 0,
+          "service_id": 1,
+          "promotion_id": 1,
+          "date": "2018-01-29"
+        },
+        {
+          "id": 5,
+          "barber_shop_id": 1,
+          "service_id": 1,
+          "promotion_id": 1,
+          "date": "2018-01-15"
+        },
+        {
+          "id": 8,
+          "barber_shop_id": 2,
+          "service_id": 1,
+          "promotion_id": 1,
+          "date": "2017-12-09"
+        }
+      ],
+      "reviews": [
+        {
+          "barber_shop_id": 0,
+          "review_description": "Commodo ullamco nostrud sit laboris reprehenderit elit nisi nisi amet. Fugiat nisi ut commodo nulla non labore ad pariatur tempor cupidatat minim qui occaecat. Excepteur duis proident ea aliquip quis veniam esse amet irure eiusmod incididunt dolor aliquip duis. Consequat enim eu proident excepteur laboris nostrud.\r\n",
+          "review_mark": 3,
+          "review_date": "2018-02-18"
+        },
+        {
+          "barber_shop_id": 1,
+          "review_description": "Aute aute dolor ut ipsum aliquip non pariatur excepteur cillum exercitation in deserunt exercitation quis. Nulla qui labore commodo ullamco minim anim esse aliquip ut nostrud aute. Ad non adipisicing dolor Lorem quis officia. Enim aute esse in nostrud quis esse aliquip. Enim occaecat Lorem excepteur tempor duis. Fugiat incididunt tempor incididunt ut elit enim id Lorem anim enim. Et velit ea eiusmod eu anim incididunt labore nisi Lorem nulla commodo magna consectetur est.\r\n",
+          "review_mark": 4,
+          "review_date": "2017-12-29"
+        },
+        {
+          "barber_shop_id": 2,
+          "review_description": "Eiusmod nulla dolore nulla culpa officia voluptate eu voluptate consectetur. Consequat aute labore magna sint. Nulla ut incididunt pariatur elit deserunt dolore Lorem Lorem tempor sint reprehenderit incididunt labore. Minim amet nostrud labore labore velit fugiat qui non excepteur dolor non nostrud consectetur do.\r\n",
+          "review_mark": 3,
+          "review_date": "2017-12-28"
+        }
+      ]
     }
   ]
 }
