@@ -1,0 +1,148 @@
+{
+  barber_shops:[
+    '{{repeat(3)}}',
+    {
+      id: '{{index()}}',
+      password: 'b',
+      email: '{{email()}}',
+      phone: '+1 {{phone()}}',
+      name: '{{company().toUpperCase()}}',
+      address: '{{integer(100, 999)}} {{street()}}, {{city()}}, {{state()}}, {{integer(100, 10000)}}',
+      schedule: [
+        '{{repeat(6)}}',
+        {
+          day_of_week: '{{index()}}',
+          oppening_1 : '9:00',
+          closing_1: '14:00',
+          oppening_2: '16:00',
+          closing_2: '20:00',
+          time_between_appointments: '00:00',
+          appointment_time: '00:30',
+          appointments_at_same_time: 2
+        }
+      ],
+
+      special_days: [
+        {
+          date: '{{date(new Date(2017, 12, 25), new Date(), "YYYY-MM-dd")}}',
+          type_of_day: 1
+        },
+
+        {
+          date: '{{date(new Date(2017, 12, 30), new Date(), "YYYY-MM-dd")}}',
+          type_of_day: 1
+        },
+
+        {
+          date: '{{date(new Date(2017, 12, 31), new Date(), "YYYY-MM-dd")}}',
+          type_of_day: 1
+        },
+
+        {
+          date: '{{date(new Date(2018, 01, 01), new Date(), "YYYY-MM-dd")}}',
+          type_of_day: 1
+        },
+
+        {
+          date: '{{date(new Date(2018, 01, 06), new Date(), "YYYY-MM-dd")}}',
+          type_of_day: 1
+        },
+
+        {
+          date: '{{date(new Date(2018, 01, 25), new Date(), "YYYY-MM-dd")}}',
+          type_of_day: 2
+        }
+      ],
+
+      services: [
+        {
+          id: '0',
+          name : 'Kid Haircut',
+          price: '10',
+          duration: '00:30'
+        },
+
+        {
+          id: '1',
+          name : 'Girl Haircut',
+          price: '10',
+          duration: '00:30'
+        },
+
+        {
+          id: '2',
+          name : 'Man Haircut',
+          price: '15',
+          duration: '00:30'
+        },
+
+        {
+          id: '3',
+          name : 'Woman Haircut',
+          price: '15',
+          duration: '00:30'
+        },
+
+        {
+          id: '4',
+          name : 'Hair dye',
+          price: '20',
+          duration: '00:30'
+        }
+      ],
+
+      appointments: [
+        {
+          id : '0',
+          client_id: '0',
+          service_id: '3',
+          promotion_id: '',
+          date: '{{date(new Date(2018, 01, 25), new Date(), "YYYY-MM-dd")}}'
+        },
+
+        {
+          id : '1',
+          client_id: '1',
+          service_id: '2',
+          promotion_id: '0',
+          date: '{{date(new Date(2018, 01, 25), new Date(), "YYYY-MM-dd")}}'
+        },
+
+        {
+          id : '2',
+          client_id: '2',
+          service_id: '1',
+          promotion_id: '1',
+          date: '{{date(new Date(2018, 01, 25), new Date(), "YYYY-MM-dd")}}'
+        }
+      ],
+
+      promotions: [
+        {
+          id : '0',
+          description : '2x1 Man Haircut'
+        },
+
+        {
+          id : '1',
+          description : '2x1 Girl Haircut'
+        },
+
+        {
+          id : '2',
+          description : '50% Hair dye'
+        }
+      ],
+
+      reviews: [
+        '{{repeat(3)}}',
+        {
+          client_id: '{{index()}}',
+          review_description:'{{lorem(1, "paragraphs")}}',
+          review_mark:'{{integer(0, 5)}}',
+          review_date:'{{date(new Date(2018, 01, 25), new Date(), "YYYY-MM-dd")}}'
+        }
+      ]
+    }
+  ]
+}

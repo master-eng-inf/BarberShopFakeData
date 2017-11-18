@@ -1,0 +1,94 @@
+{
+  "clients": [
+    {
+      "id": 0,
+      "password": "c",
+      "email": "gretahorton@joviold.com",
+      "phone": "+1 (904) 408-3320",
+      "name": "Agnes York",
+      "gender": "female",
+      "age": 55
+    },
+    {
+      "id": 1,
+      "password": "c",
+      "email": "agnesyork@joviold.com",
+      "phone": "+1 (868) 480-3201",
+      "name": "Janis Jensen",
+      "gender": "female",
+      "age": 58
+    },
+    {
+      "id": 2,
+      "password": "c",
+      "email": "janisjensen@joviold.com",
+      "phone": "+1 (865) 599-3099",
+      "name": "Kirk Shepherd",
+      "gender": "male",
+      "age": 29
+    },
+    {
+      "id": 3,
+      "password": "c",
+      "email": "kirkshepherd@joviold.com",
+      "phone": "+1 (956) 436-2624",
+      "name": "Zelma Walker",
+      "gender": "female",
+      "age": 24
+    },
+    {
+      "id": 4,
+      "password": "c",
+      "email": "zelmawalker@joviold.com",
+      "phone": "+1 (854) 447-3515",
+      "name": "Alba Tillman",
+      "gender": "female",
+      "age": 14
+    },
+    {
+      "id": 5,
+      "password": "c",
+      "email": "albatillman@joviold.com",
+      "phone": "+1 (939) 469-2649",
+      "name": "Becky French",
+      "gender": "female",
+      "age": 40
+    },
+    {
+      "id": 6,
+      "password": "c",
+      "email": "beckyfrench@joviold.com",
+      "phone": "+1 (938) 592-3048",
+      "name": "Pitts Gillespie",
+      "gender": "male",
+      "age": 55
+    },
+    {
+      "id": 7,
+      "password": "c",
+      "email": "pittsgillespie@joviold.com",
+      "phone": "+1 (848) 517-3050",
+      "name": "Betsy Young",
+      "gender": "female",
+      "age": 42
+    },
+    {
+      "id": 8,
+      "password": "c",
+      "email": "betsyyoung@joviold.com",
+      "phone": "+1 (905) 484-2147",
+      "name": "Duran Taylor",
+      "gender": "male",
+      "age": 50
+    },
+    {
+      "id": 9,
+      "password": "c",
+      "email": "durantaylor@joviold.com",
+      "phone": "+1 (904) 488-2271",
+      "name": "Kayla Flores",
+      "gender": "female",
+      "age": 44
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  clients:[
+    '{{repeat(10)}}',
+    {
+      id: '{{index()}}',
+      password: 'c',
+      email: '{{email()}}',
+      phone: '+1 {{phone()}}',
+      name: '{{firstName()}} {{surname()}}',
+      gender: '{{gender()}}',
+      age: '{{integer(10, 70)}}'
+    }
+  ]
+}
