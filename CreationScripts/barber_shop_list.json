@@ -7,7 +7,9 @@
       email: '{{email()}}',
       phone: '+1 {{phone()}}',
       name: '{{company().toUpperCase()}}',
-      address: '{{integer(100, 999)}} {{street()}}, {{city()}}, {{state()}}, {{integer(100, 10000)}}',
+      description: '{{lorem(1, "paragraphs")}}',
+      address: '{{integer(100, 999)}} {{street()}}',
+      city: '{{city()}}',
       schedule: [
         '{{repeat(6)}}',
         {

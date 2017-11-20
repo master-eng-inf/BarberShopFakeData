@@ -6,7 +6,9 @@
             "email": "shannonchambers@ovolo.com",
             "phone": "+1 (961) 462-2782",
             "name": "XYMONK",
-            "address": "199 Gilmore Court, Hiseville, Washington, 1640",
+            "description": "Cupidatat pariatur excepteur magna laborum et laboris irure eiusmod ad. Laborum consequat dolor duis pariatur esse veniam eiusmod ad. Cillum et eu laborum aute elit pariatur magna pariatur ea voluptate exercitation culpa.\r\n",
+            "address": "605 Story Court",
+            "city": "Hiwasse",
             "schedule": [
                 {
                     "day_of_week": 0,
@@ -191,7 +193,9 @@
             "email": "shannonchambers@xymonk.com",
             "phone": "+1 (847) 499-3907",
             "name": "SILODYNE",
-            "address": "881 Colonial Road, Cecilia, Palau, 2006",
+            "description": "Sint Lorem cillum adipisicing ipsum ullamco est ut sit. Anim Lorem aliquip aliquip occaecat ex nulla non pariatur laborum. Nostrud eiusmod sunt enim cillum nisi do veniam.\r\n",
+            "address": "464 Bedford Place",
+            "city": "Fingerville",
             "schedule": [
                 {
                     "day_of_week": 0,
@@ -376,7 +380,9 @@
             "email": "shannonchambers@silodyne.com",
             "phone": "+1 (995) 437-3761",
             "name": "ENTHAZE",
-            "address": "876 Moffat Street, Marenisco, Georgia, 8171",
+            "description": "Nisi fugiat et do do. Ullamco sit sunt laboris deserunt in. In occaecat non velit sunt quis ex adipisicing aute aliquip nostrud velit veniam. Magna enim Lorem consectetur laborum. Ullamco velit occaecat cupidatat amet consequat cupidatat adipisicing consequat consectetur qui aliqua aute. Incididunt aliquip mollit nulla excepteur deserunt incididunt proident. Ut do dolor culpa sint cupidatat ullamco occaecat ea exercitation ut cillum sint culpa.\r\n",
+            "address": "795 Richardson Street",
+            "city": "Groveville",
             "schedule": [
                 {
                     "day_of_week": 0,
