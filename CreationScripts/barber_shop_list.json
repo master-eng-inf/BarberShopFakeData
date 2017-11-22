@@ -18,8 +18,6 @@
           closing_1: '14:00',
           oppening_2: '16:00',
           closing_2: '20:00',
-          time_between_appointments: '00:00',
-          appointment_time: '00:30',
           appointments_at_same_time: 2
         }
       ],
