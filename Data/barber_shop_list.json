@@ -132,7 +132,7 @@
                     "id": 0,
                     "client_id": 0,
                     "service_id": 3,
-                    "promotion_id": "",
+                    "promotion_id": -1,
                     "date": "2017-12-20",
                     "starting_hour": "11:30",
                     "ending_hour": "30"
@@ -329,7 +329,7 @@
                     "id": 3,
                     "client_id": 0,
                     "service_id": 3,
-                    "promotion_id": "",
+                    "promotion_id": -1,
                     "date": "2018-01-20",
                     "starting_hour": "16:00",
                     "ending_hour": "30"
@@ -526,7 +526,7 @@
                     "id": 6,
                     "client_id": 0,
                     "service_id": 3,
-                    "promotion_id": "",
+                    "promotion_id": -1,
                     "date": "2017-12-26",
                     "starting_hour": "18:00",
                     "ending_hour": "30"
