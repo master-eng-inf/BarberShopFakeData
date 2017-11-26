@@ -133,27 +133,21 @@
                     "client_id": 0,
                     "service_id": 3,
                     "promotion_id": -1,
-                    "date": "2017-12-20",
-                    "starting_hour": "11:30",
-                    "ending_hour": "30"
+                    "date": "2017-12-20 10:30"
                 },
                 {
                     "id": 1,
                     "client_id": 1,
                     "service_id": 2,
                     "promotion_id": 0,
-                    "date": "2017-12-20",
-                    "starting_hour": "12:00",
-                    "ending_hour": "30"
+                    "date": "2017-12-20 11:00"
                 },
                 {
                     "id": 2,
                     "client_id": 2,
                     "service_id": 1,
                     "promotion_id": 1,
-                    "date": "2018-01-29",
-                    "starting_hour": "12:00",
-                    "ending_hour": "30"
+                    "date": "2018-01-29 11:30"
                 }
             ],
             "promotions": [
@@ -330,27 +324,21 @@
                     "client_id": 0,
                     "service_id": 3,
                     "promotion_id": -1,
-                    "date": "2018-01-20",
-                    "starting_hour": "16:00",
-                    "ending_hour": "30"
+                    "date": "2018-01-20 12:00"
                 },
                 {
                     "id": 4,
                     "client_id": 1,
                     "service_id": 2,
                     "promotion_id": 0,
-                    "date": "2017-12-04",
-                    "starting_hour": "16:30",
-                    "ending_hour": "30"
+                    "date": "2017-12-04 12:30"
                 },
                 {
                     "id": 5,
                     "client_id": 2,
                     "service_id": 1,
                     "promotion_id": 1,
-                    "date": "2018-01-15",
-                    "starting_hour": "17:00",
-                    "ending_hour": "30"
+                    "date": "2018-01-15 13:00"
                 }
             ],
             "promotions": [
@@ -527,27 +515,21 @@
                     "client_id": 0,
                     "service_id": 3,
                     "promotion_id": -1,
-                    "date": "2017-12-26",
-                    "starting_hour": "18:00",
-                    "ending_hour": "30"
+                    "date": "2017-12-26 16:00"
                 },
                 {
                     "id": 7,
                     "client_id": 1,
                     "service_id": 2,
                     "promotion_id": 0,
-                    "date": "2017-12-06",
-                    "starting_hour": "18:30",
-                    "ending_hour": "30"
+                    "date": "2017-12-06 16:30"
                 },
                 {
                     "id": 8,
                     "client_id": 2,
                     "service_id": 1,
                     "promotion_id": 1,
-                    "date": "2017-12-09",
-                    "starting_hour": "19:00",
-                    "ending_hour": "30"
+                    "date": "2017-12-09 17:00"
                 }
             ],
             "promotions": [
