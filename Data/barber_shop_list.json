@@ -288,31 +288,31 @@
             ],
             "services": [
                 {
-                    "id": 0,
+                    "id": 5,
                     "name": "Kid Haircut",
                     "price": 10,
                     "duration": 30
                 },
                 {
-                    "id": 1,
+                    "id": 6,
                     "name": "Girl Haircut",
                     "price": 10,
                     "duration": 30
                 },
                 {
-                    "id": 2,
+                    "id": 7,
                     "name": "Man Haircut",
                     "price": 15,
                     "duration": 30
                 },
                 {
-                    "id": 3,
+                    "id": 8,
                     "name": "Woman Haircut",
                     "price": 15,
                     "duration": 30
                 },
                 {
-                    "id": 4,
+                    "id": 9,
                     "name": "Hair dye",
                     "price": 20,
                     "duration": 30
@@ -343,19 +343,19 @@
             ],
             "promotions": [
                 {
-                    "id": 0,
+                    "id": 3,
                     "description": "2x1 Man Haircut",
                     "service_id": 2,
                     "name": ""
                 },
                 {
-                    "id": 1,
+                    "id": 4,
                     "description": "2x1 Girl Haircut",
                     "service_id": 1,
                     "name": ""
                 },
                 {
-                    "id": 2,
+                    "id": 5,
                     "description": "50% Hair dye",
                     "service_id": 4,
                     "name": ""
@@ -479,31 +479,31 @@
             ],
             "services": [
                 {
-                    "id": 0,
+                    "id": 10,
                     "name": "Kid Haircut",
                     "price": 10,
                     "duration": 30
                 },
                 {
-                    "id": 1,
+                    "id": 11,
                     "name": "Girl Haircut",
                     "price": 10,
                     "duration": 30
                 },
                 {
-                    "id": 2,
+                    "id": 12,
                     "name": "Man Haircut",
                     "price": 15,
                     "duration": 30
                 },
                 {
-                    "id": 3,
+                    "id": 13,
                     "name": "Woman Haircut",
                     "price": 15,
                     "duration": 30
                 },
                 {
-                    "id": 4,
+                    "id": 14,
                     "name": "Hair dye",
                     "price": 20,
                     "duration": 30
@@ -534,19 +534,19 @@
             ],
             "promotions": [
                 {
-                    "id": 0,
+                    "id": 6,
                     "description": "2x1 Man Haircut",
                     "service_id": 2,
                     "name": ""
                 },
                 {
-                    "id": 1,
+                    "id": 7,
                     "description": "2x1 Girl Haircut",
                     "service_id": 1,
                     "name": ""
                 },
                 {
-                    "id": 2,
+                    "id": 8,
                     "description": "50% Hair dye",
                     "service_id": 4,
                     "name": ""
