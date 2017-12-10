@@ -156,18 +156,21 @@
                     "description": "2x1 Man Haircut",
                     "service_id": 2,
                     "name": ""
+                    "is_promotional": 0
                 },
                 {
                     "id": 1,
                     "description": "2x1 Girl Haircut",
                     "service_id": 1,
-                    "name": ""
+                    "name": "",
+                    "is_promotional": 1
                 },
                 {
                     "id": 2,
                     "description": "50% Hair dye",
                     "service_id": 4,
-                    "name": ""
+                    "name": "",
+                    "is_promotional": 1
                 }
             ],
             "reviews": [
@@ -346,19 +349,22 @@
                     "id": 3,
                     "description": "2x1 Man Haircut",
                     "service_id": 2,
-                    "name": ""
+                    "name": "",
+                    "is_promotional": 0
                 },
                 {
                     "id": 4,
                     "description": "2x1 Girl Haircut",
                     "service_id": 1,
-                    "name": ""
+                    "name": "",
+                    "is_promotional": 0
                 },
                 {
                     "id": 5,
                     "description": "50% Hair dye",
                     "service_id": 4,
-                    "name": ""
+                    "name": "",
+                    "is_promotional": 0
                 }
             ],
             "reviews": [
@@ -537,19 +543,22 @@
                     "id": 6,
                     "description": "2x1 Man Haircut",
                     "service_id": 2,
-                    "name": ""
+                    "name": "",
+                    "is_promotional": 1
                 },
                 {
                     "id": 7,
                     "description": "2x1 Girl Haircut",
                     "service_id": 1,
-                    "name": ""
+                    "name": "",
+                    "is_promotional": 1
                 },
                 {
                     "id": 8,
                     "description": "50% Hair dye",
                     "service_id": 4,
-                    "name": ""
+                    "name": "",
+                    "is_promotional": 0
                 }
             ],
             "reviews": [
